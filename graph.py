@@ -9,8 +9,8 @@ from math import sqrt
 # Negative-weight edges are acceptable. For weightless edges, just use 
 # weight 0 (since this is not the same as not having an edge). 
 # For more information about how this works:
-# http://en.wikipedia.org/wiki/Adjacency_matrix
 # http://en.wikipedia.org/wiki/Graph_(data_structure)
+# http://en.wikipedia.org/wiki/Adjacency_matrix
 ###############################################################################
 class Graph:
 
